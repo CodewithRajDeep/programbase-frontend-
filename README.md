@@ -1,8 +1,29 @@
-# React + Vite
+# programbase-frontend-
+#Programbase - project being made with our team to develop an open source accessibility module to help and navigate the user to find as per their needs. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# this project is developed with react-native along with vite.js(new module to develop website) and tailwind css with vite to have that smooth user experience. 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# how to install: 
+1. open the terminal or directly open the git bash
+2. cd to your desired location and copy the git code
+3. run command git clone and paste the url , make sure to add .git at the end
+4. all the files will be downloaded and open in your IDE
+5. open terminal and run command npm install to install necessary depencencies
+6. once done, run command npm run dev
+7. localhost along with portnumber will be generated, open and you are ready to go!!.
+
+#For any discussion or wan to contribute, you are heartly welcome!!.
+
+
+
+plugins used : 
+
+- [@vitejs/plugin-react]
+- [tailwindcss/plugin]
+- [
+require('@tailwindcss/typography'),
+require('@tailwindcss/forms'),
+require('@tailwindcss/aspect-ratio'),
+require('@tailwindcss/container-queries'),]
+- [require('daisyui'),]
